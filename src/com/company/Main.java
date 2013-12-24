@@ -16,7 +16,6 @@ public class Main {
 
     public Main() {
         buildGUI();
-
     }
 
     public void buildGUI() {
